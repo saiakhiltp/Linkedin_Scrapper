@@ -1,0 +1,74 @@
+{
+    "url": "https://www.linkedin.com/posts/sumernegi_marketingautomation-salesforce-marketo-activity-7359831150418186240-d-tp",
+    "title": "Google Marketing Platform Integrates AI-Powered Audience Segmentation",
+    "description": "Google Marketing Platform Integrates AI-Powered Audience Segmentation\nGoogle just announced an upgrade to its Marketing Platform — adding AI-driven audience segmentation that can automatically adjust targeting based on engagement and conversion patterns.\n\nWhat this means for Marketing Automation pros like us:\nThis is another step toward hyper-personalization. AI is no longer just about predicting trends; it’s actively adjusting campaigns in real-time — much like the dynamic content tools we use in Salesforce, Marketo, Pardot, and HubSpot.\n\nFor companies, this means:\n✅ Faster campaign optimizations without constant manual tweaks\n✅ More relevant messaging for each audience segment\n✅ Higher ROI from the same ad spend\n\nThe future of marketing automation is here — and it’s adaptive.\n\nAre you ready for your campaigns to learn and optimize themselves?\n\n#MarketingAutomation #Salesforce #Marketo #Pardot #HubSpot #DigitalMarketing #AIinMarketing",
+    "content": "Google Marketing Platform Integrates AI-Powered Audience Segmentation\nGoogle just announced an upgrade to its Marketing Platform — adding AI-driven audience segmentation that can automatically adjust targeting based on engagement and conversion patterns.\n\nWhat this means for Marketing Automation pros like us:\nThis is another step toward hyper-personalization. AI is no longer just about predicting trends; it’s actively adjusting campaigns in real-time — much like the dynamic content tools we use in Salesforce, Marketo, Pardot, and HubSpot.\n\nFor companies, this means:\n✅ Faster campaign optimizations without constant manual tweaks\n✅ More relevant messaging for each audience segment\n✅ Higher ROI from the same ad spend\n\nThe future of marketing automation is here — and it’s adaptive.\n\nAre you ready for your campaigns to learn and optimize themselves?\n\n#MarketingAutomation #Salesforce #Marketo #Pardot #HubSpot #DigitalMarketing #AIinMarketing",
+    "likes": 2,
+    "comments": 2,
+    "author": "Sumer Negi",
+    "date_published": "2025-08-09T06:21:25.279000+00:00",
+    "images": [
+        "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "https://media.licdn.com/dms/image/v2/D5616AQGfnwYv_xgcwg/profile-displaybackgroundimage-shrink_200_800/B56Zkaqr3IG4AU-/0/1757089023936?e=2147483647&v=beta&t=zfKqMngUktkT3_PnIqryWooYy8XE6sG_xNXM9TVULHs"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SocialMediaPosting",
+            "@id": "https://www.linkedin.com/posts/sumernegi_marketingautomation-salesforce-marketo-activity-7359831150418186240-d-tp",
+            "datePublished": "2025-08-09T06:21:25.279Z",
+            "headline": "Google Marketing Platform Integrates AI-Powered Audience Segmentation",
+            "comment": [
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-08-09T17:42:54.834Z",
+                    "text": "This is an exciting development for marketers! Embracing AI will undoubtedly enhance campaign effectiveness and drive engagement.",
+                    "author": {
+                        "@type": "Person",
+                        "name": "SERHII SKRYPNYK 🇺🇦"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                }
+            ],
+            "commentCount": 2,
+            "articleBody": "Google Marketing Platform Integrates AI-Powered Audience Segmentation\nGoogle just announced an upgrade to its Marketing Platform — adding AI-driven audience segmentation that can automatically adjust targeting based on engagement and conversion patterns.\n\nWhat this means for Marketing Automation pros like us:\nThis is another step toward hyper-personalization. AI is no longer just about predicting trends; it’s actively adjusting campaigns in real-time — much like the dynamic content tools we use in Salesforce, Marketo, Pardot, and HubSpot.\n\nFor companies, this means:\n✅ Faster campaign optimizations without constant manual tweaks\n✅ More relevant messaging for each audience segment\n✅ Higher ROI from the same ad spend\n\nThe future of marketing automation is here — and it’s adaptive.\n\nAre you ready for your campaigns to learn and optimize themselves?\n\n#MarketingAutomation #Salesforce #Marketo #Pardot #HubSpot #DigitalMarketing #AIinMarketing",
+            "author": {
+                "name": "Sumer Negi",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4D03AQGZcivnKu9Kgw/profile-displayphoto-scale_200_200/B4DZmXT_6yJMAY-/0/1759180227061?e=2147483647&v=beta&t=jXGdgb8ZRTazoCjqrxfGK9cvgOZH9QdSZ2HaouNvP3A",
+                    "@type": "ImageObject"
+                },
+                "url": "https://in.linkedin.com/in/sumernegi",
+                "@type": "Person",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 2134
+                }
+            },
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 2
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 2
+                }
+            ],
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": false,
+                "cssSelector": ".details"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_sumernegi_marketingautomation-salesforce-marketo-activity-7359831150418186240-d-tp.html"
+}

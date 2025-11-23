@@ -1,0 +1,219 @@
+{
+    "url": "https://www.linkedin.com/posts/erinmcgoff_happy-mothers-day-to-all-the-moms-out-there-activity-7327316582622269440-g3cs",
+    "title": "Happy Mothers Day to all the moms out there!",
+    "description": "Happy Mothers Day to all the moms out there! 🫶🏼✨",
+    "content": "Happy Mothers Day to all the moms out there!",
+    "likes": 1157,
+    "comments": 43,
+    "author": "Erin McGoff",
+    "date_published": "2025-05-11T13:00:08.224000+00:00",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D4E05AQEzLXEYB7jmsA/videocover-high/B4EZa_YCwVHMBw-/0/1746968392749?e=2147483647&v=beta&t=GicQItSRDJ9I7g8esrDstc6c671KkVsWSDkVAGN6_lE",
+        "https://dms.licdn.com/playlist/vid/v2/D4E05AQEzLXEYB7jmsA/thumbnail-with-play-button-overlay-high/B4EZa_YCwVHMDo-/0/1746968392903?e=2147483647&v=beta&t=H9s23VGrpkYqkelULidxhuWJly53S-O_fwbCebF_tuc",
+        "https://media.licdn.com/dms/image/v2/D4E16AQElBYBQDKw1aQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1733246558518?e=2147483647&v=beta&t=LWpfqKqWKAS61U3Gkjcmxnxq1cco_t52Lo6GiSuoQb8"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "VideoObject",
+            "@id": "https://www.linkedin.com/posts/erinmcgoff_happy-mothers-day-to-all-the-moms-out-there-activity-7327316582622269440-g3cs",
+            "datePublished": "2025-05-11T13:00:08.224Z",
+            "headline": "Happy Mothers Day to all the moms out there!",
+            "comment": [
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-11T14:50:54.132Z",
+                    "text": "Forgot to mention the $60k cost of \"onboarding\" ☠️",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Cari Whitmer"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 8
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-11T15:19:20.193Z",
+                    "text": "How many people watched this a second time with a whole different spin on it? 😉😊",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Christal Saint-Denis"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 5
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-11T16:09:59.490Z",
+                    "text": "Who wrote this ? 👏🏼👏🏼👏🏼👏🏼",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Caue Barcelos"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 1
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-12T02:27:10.968Z",
+                    "text": "Omg you really are so good 😊 laughing and crying 😂 at once 🙏🏻",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Sarah Fischer Letts"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 1
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-11T21:27:48.977Z",
+                    "text": "Exactly",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Martha Stilson"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 1
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-11T13:58:11.915Z",
+                    "text": "🤣🤣🤣🤣😂😂😂😂 I thought it was serious 18 years without pay",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Juan Garcia"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-13T00:38:46.266Z",
+                    "text": "😂😂😂😂😂😂😂😂😂😂",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Eileen Kasmarcik"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-12T18:22:06.015Z",
+                    "text": "I'm a mom so, yes, this is accurate...but, it's actually a pretty accurate description of my job too! 🤪  ",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Katie H."
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-23T12:39:47.879Z",
+                    "text": "Haha the onboarding process is especially painful 🤣",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Emily Braun, MS, LPC Associate"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-05-13T00:40:45.269Z",
+                    "text": "Exactly ..",
+                    "creator": {
+                        "@type": "Person",
+                        "name": "Selene Smith"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                }
+            ],
+            "commentCount": 43,
+            "caption": {
+                "@type": "MediaObject",
+                "contentUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEzLXEYB7jmsA/video-auto-caption-webvtt-acs-singleton/B4EZa_YCwVHMEY-/0/1746968429774?e=2147483647&v=beta&t=ux6YvmPdRe_jvypfivrOY8EyFsDX-hZLCK9Uv720qik",
+                "description": "Video Captions for Happy Mothers Day to all the moms out there! 🫶🏼✨ | Erin McGoff | 43 comments",
+                "encodingFormat": "text/vtt",
+                "name": "Video Captions for Happy Mothers Day to all the moms out there! 🫶🏼✨ | Erin McGoff | 43 comments"
+            },
+            "contentUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQEzLXEYB7jmsA/mp4-720p-30fp-crf28/B4EZa_YCwVHMBU-/0/1746968397919?e=2147483647&v=beta&t=a62jB4u5Ud3R6k1bmynxw3HBr55M2wYAUQsTKwO8MeA",
+            "creator": {
+                "name": "Erin McGoff",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E03AQE8DdJpF116TA/profile-displayphoto-shrink_200_200/B4EZONi.nTH0Ao-/0/1733246578786?e=2147483647&v=beta&t=zRGL2XKR9S9hyjnfGzps7PVuewntLVBhnepu9nuPgWM",
+                    "@type": "ImageObject"
+                },
+                "url": "https://www.linkedin.com/in/erinmcgoff",
+                "@type": "Person",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 203624
+                }
+            },
+            "duration": "PT1M18S",
+            "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7327316582622269440?compact=true",
+            "height": 1280,
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 1157
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 43
+                }
+            ],
+            "isFamilyFriendly": true,
+            "keywords": "",
+            "width": 720,
+            "name": "Happy Mothers Day to all the moms out there! 🫶🏼✨ | Erin McGoff | 43 comments",
+            "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQEzLXEYB7jmsA/videocover-high/B4EZa_YCwVHMBw-/0/1746968392749?e=2147483647&v=beta&t=GicQItSRDJ9I7g8esrDstc6c671KkVsWSDkVAGN6_lE",
+            "uploadDate": "2025-05-11T13:00:08.224Z",
+            "description": "Happy Mothers Day to all the moms out there! 🫶🏼✨",
+            "potentialAction": {
+                "@type": "SeekToAction",
+                "target": "https://www.linkedin.com/posts/erinmcgoff_happy-mothers-day-to-all-the-moms-out-there-activity-7327316582622269440-g3cs?t={seek_to_second_number}",
+                "startOffset-input": "required name=seek_to_second_number"
+            },
+            "transcript": "Hi, welcome. I'm excited to chat. So first of all, we are looking for someone who is a hard worker. Got it. That's me. Someone who is great at communication, patient, well versed in persuasion and negotiation. OK, so this position will require you to oversee daily operations for the entire organization. The primary role is managing and balancing budget and also with manage multiple schedules for multiple roles. You have to oversee all of human resources to handle some billing, shipping, inventory, education, OK. And pretty much all the culinary operations Angel has to keep everything up to health code. So that means anytime the office gets 30, you got to clean it. And what are the hours? Are you available? Every day. Great, so it's seven days a week and then, you know, it's pretty much 24/7. Of course you can sleep, but we're going to call you when you're sleeping. OK, And what's the pay? What, like $1,000,000 a year? Oh yes, very, very important. It's definitely one of the things that I want to talk to you about. So the pay is actually nothing right now. Now we do allow you to get a second job, but you would have to pay somebody else to do this job while you're at the second job. So you know that works for something, but you would have to sign a contract for about 18 years. Oh, of course, one more thing. The onboarding can be quite painful, like physically speaking and emotion. I'm sorry, why would anyone want this job? Ohh well you know, I mean it's just like the most important job in the country and imperatives for the future of humanity. This is about moms isn't happy Mother's Day. We love moms but especially my mom. You got this and follow from work."
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_erinmcgoff_happy-mothers-day-to-all-the-moms-out-there-activity-7327316582622269440-g3cs.html"
+}

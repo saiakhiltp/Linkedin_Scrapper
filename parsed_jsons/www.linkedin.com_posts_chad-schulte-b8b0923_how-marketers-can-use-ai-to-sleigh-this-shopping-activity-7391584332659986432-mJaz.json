@@ -1,0 +1,66 @@
+{
+    "url": "https://www.linkedin.com/posts/chad-schulte-b8b0923_how-marketers-can-use-ai-to-sleigh-this-shopping-activity-7391584332659986432-mJaz",
+    "title": "With the shopping season fast approaching, brands are facing increasing pressure to cut through the noise.",
+    "description": "With the shopping season fast approaching, brands are facing increasing pressure to cut through the noise. 🎁\n\nIn this article from The Drum, Seedtag’s UK MD and Head of Agency International, Marko Johns, explains how marketers can use AI as a true creative partner, helping deliver campaigns that feel human, relevant, and engaging.\n\nKey insights:\n\n🧠 Understand the moment: Use neuro-contextual insights to tap into how people feel this season. \n🎨 Wrap creative in emotion: Match storytelling and context to make messages resonate.\n🔁 Keep the magic going: Stay flexible and optimize mid-campaign for real-time relevance.\n\nIt’s a timely reminder that success this season isn’t about doing more - it’s about connecting better.\n\nRead it now: https://lnkd.in/eRtVhHaw\n\n#ShoppingSeason #NeuroContextual #AdTech #HolidayMarketing ",
+    "content": "With the shopping season fast approaching, brands are facing increasing pressure to cut through the noise. 🎁\n\nIn this article from The Drum, Seedtag’s UK MD and Head of Agency International, Marko Johns, explains how marketers can use AI as a true creative partner, helping deliver campaigns that feel human, relevant, and engaging.\n\nKey insights:\n\n🧠 Understand the moment: Use neuro-contextual insights to tap into how people feel this season. \n🎨 Wrap creative in emotion: Match storytelling and context to make messages resonate.\n🔁 Keep the magic going: Stay flexible and optimize mid-campaign for real-time relevance.\n\nIt’s a timely reminder that success this season isn’t about doing more - it’s about connecting better.\n\nRead it now: https://lnkd.in/eRtVhHaw\n\n#ShoppingSeason #NeuroContextual #AdTech #HolidayMarketing",
+    "likes": 5,
+    "comments": null,
+    "author": "Chad Schulte",
+    "date_published": "2025-11-04T21:17:13.871000+00:00",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D4E10AQHD0LKgVDzd-g/image-shrink_800/B4EZpQuyMUHUAg-/0/1762291033576?e=2147483647&v=beta&t=h5Lc1dSlju6bBeBCIMMaFYnoA6url5_MilDYl1f1i2M",
+        "https://media.licdn.com/dms/image/v2/C5616AQGMnqLjXnwtlg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1613583602671?e=2147483647&v=beta&t=OAnxAdOoRHlHy7O5VpMhwgxHtSpBXcbW5BX9zYyzjOk"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SocialMediaPosting",
+            "@id": "https://www.linkedin.com/posts/chad-schulte-b8b0923_how-marketers-can-use-ai-to-sleigh-this-shopping-activity-7391584332659986432-mJaz",
+            "datePublished": "2025-11-04T21:17:13.871Z",
+            "headline": "With the shopping season fast approaching, brands are facing increasing pressure to cut through the noise.",
+            "comment": [],
+            "commentCount": 0,
+            "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E10AQHD0LKgVDzd-g/image-shrink_800/B4EZpQuyMUHUAg-/0/1762291033576?e=2147483647&v=beta&t=h5Lc1dSlju6bBeBCIMMaFYnoA6url5_MilDYl1f1i2M",
+                "@type": "ImageObject"
+            },
+            "articleBody": "With the shopping season fast approaching, brands are facing increasing pressure to cut through the noise. 🎁\n\nIn this article from The Drum, Seedtag’s UK MD and Head of Agency International, Marko Johns, explains how marketers can use AI as a true creative partner, helping deliver campaigns that feel human, relevant, and engaging.\n\nKey insights:\n\n🧠 Understand the moment: Use neuro-contextual insights to tap into how people feel this season. \n🎨 Wrap creative in emotion: Match storytelling and context to make messages resonate.\n🔁 Keep the magic going: Stay flexible and optimize mid-campaign for real-time relevance.\n\nIt’s a timely reminder that success this season isn’t about doing more - it’s about connecting better.\n\nRead it now: https://lnkd.in/eRtVhHaw\n\n#ShoppingSeason #NeuroContextual #AdTech #HolidayMarketing",
+            "sharedContent": {
+                "@type": "WebPage"
+            },
+            "author": {
+                "name": "Chad Schulte",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/C4D03AQHriB-HTEAEjw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1643688249101?e=2147483647&v=beta&t=dXIJeavfHpHP6HewhJrlRyv2B_Yz-i55NmTpvAfDN1M",
+                    "@type": "ImageObject"
+                },
+                "url": "https://www.linkedin.com/in/chad-schulte-b8b0923",
+                "@type": "Person",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 2608
+                }
+            },
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 5
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 0
+                }
+            ],
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": false,
+                "cssSelector": ".details"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_chad-schulte-b8b0923_how-marketers-can-use-ai-to-sleigh-this-shopping-activity-7391584332659986432-mJaz.html"
+}

@@ -1,0 +1,66 @@
+{
+    "url": "https://www.linkedin.com/posts/corehealth-technologies_burnout-is-costly-investing-in-employee-activity-7386808652294311957-2gNw",
+    "title": "Burnout is costly, investing in employee wellbeing pays off.",
+    "description": "Burnout is costly, investing in employee wellbeing pays off.\n\nBy normalizing mental health conversations, providing targeted training, regularly reviewing wellbeing initiatives, and encouraging time off, organizations can build a resilient workforce. The result? Higher engagement, increased productivity, and a culture where employees feel supported every day.\n\nhttps://hubs.ly/Q03NM-Wt0 ",
+    "content": "Burnout is costly, investing in employee wellbeing pays off.\n\nBy normalizing mental health conversations, providing targeted training, regularly reviewing wellbeing initiatives, and encouraging time off, organizations can build a resilient workforce. The result? Higher engagement, increased productivity, and a culture where employees feel supported every day.\n\nhttps://hubs.ly/Q03NM-Wt0",
+    "likes": 1,
+    "comments": null,
+    "author": "CoreHealth Technologies",
+    "date_published": "2025-10-22T17:00:22.952000+00:00",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D5610AQFO07ilR62thQ/image-shrink_1280/B56ZoM3TwnJYAM-/0/1761152417224?e=2147483647&v=beta&t=RYdWMMUzzA4N2TD6fnJUp-emqFFF3QoP3V0KSQ0YD7Y",
+        "https://media.licdn.com/dms/image/v2/D563DAQFbK4HGOkZtqQ/image-scale_191_1128/B56ZgzrsIpG0Ac-/0/1753213749497/corehealth_technologies_cover?e=2147483647&v=beta&t=eTKOa0MQkC0fWgJUcT-RC8ymJHqbq2HoQBUjHUuas1U"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SocialMediaPosting",
+            "@id": "https://www.linkedin.com/posts/corehealth-technologies_burnout-is-costly-investing-in-employee-activity-7386808652294311957-2gNw",
+            "datePublished": "2025-10-22T17:00:22.952Z",
+            "headline": "Burnout is costly, investing in employee wellbeing pays off.",
+            "comment": [],
+            "commentCount": 0,
+            "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D5610AQFO07ilR62thQ/image-shrink_1280/B56ZoM3TwnJYAM-/0/1761152417224?e=2147483647&v=beta&t=RYdWMMUzzA4N2TD6fnJUp-emqFFF3QoP3V0KSQ0YD7Y",
+                "@type": "ImageObject"
+            },
+            "articleBody": "Burnout is costly, investing in employee wellbeing pays off.\n\nBy normalizing mental health conversations, providing targeted training, regularly reviewing wellbeing initiatives, and encouraging time off, organizations can build a resilient workforce. The result? Higher engagement, increased productivity, and a culture where employees feel supported every day.\n\nhttps://hubs.ly/Q03NM-Wt0",
+            "sharedContent": {
+                "@type": "WebPage"
+            },
+            "author": {
+                "name": "CoreHealth Technologies",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/C560BAQHuWjMRoF1Vfw/company-logo_100_100/company-logo_100_100/0/1651791513495/corehealth_technologies_logo?e=2147483647&v=beta&t=OMpSNgOx914XQgGiYI0GfXoixW7TOkfHh7pWZ2Wffgo",
+                    "@type": "ImageObject"
+                },
+                "url": "https://ca.linkedin.com/company/corehealth-technologies",
+                "@type": "Organization",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 0
+                }
+            },
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 1
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 0
+                }
+            ],
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": false,
+                "cssSelector": ".details"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_corehealth-technologies_burnout-is-costly-investing-in-employee-activity-7386808652294311957-2gNw.html"
+}

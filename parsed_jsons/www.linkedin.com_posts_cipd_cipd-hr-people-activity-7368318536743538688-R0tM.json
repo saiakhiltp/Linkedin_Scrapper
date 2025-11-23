@@ -1,0 +1,95 @@
+{
+    "url": "https://www.linkedin.com/posts/cipd_cipd-hr-people-activity-7368318536743538688-R0tM",
+    "title": "During September and October, our Focus on campaign explores the key themes of employee health and wellbeing.",
+    "description": "During September and October, our Focus on campaign explores the key themes of employee health and wellbeing.\n\nEmployee wellbeing remains a key focus for people professionals, balancing growing workplace demands while supporting their organisations through change 🌍\n\nOrganisations should recognise that people professionals are essential to driving effective and sustainable wellbeing strategies that support both individuals and business performance 📊\n\nOngoing support is vital - not only to help employees maintain their health and wellbeing, but also to ensure they feel genuinely valued and supported at every stage of their working lives 🪴\n\nFind out more here: https://ow.ly/ppK650WP9P7\n\n#CIPD #HR #People #Business #Health #Wellbeing",
+    "content": "During September and October, our Focus on campaign explores the key themes of employee health and wellbeing.\n\nEmployee wellbeing remains a key focus for people professionals, balancing growing workplace demands while supporting their organisations through change 🌍\n\nOrganisations should recognise that people professionals are essential to driving effective and sustainable wellbeing strategies that support both individuals and business performance 📊\n\nOngoing support is vital - not only to help employees maintain their health and wellbeing, but also to ensure they feel genuinely valued and supported at every stage of their working lives 🪴\n\nFind out more here: https://ow.ly/ppK650WP9P7\n\n#CIPD #HR #People #Business #Health #Wellbeing",
+    "likes": 75,
+    "comments": 4,
+    "author": "CIPD",
+    "date_published": "2025-09-01T16:27:15.868000+00:00",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D4E10AQHaAPMrgbWOSA/image-shrink_800/B4EZkGGqsTGYAc-/0/1756744035588?e=2147483647&v=beta&t=eflE6A-8VBwlwitgr0gdioYGd1r0JSPToyPPKqqZJCo",
+        "https://media.licdn.com/dms/image/v2/D4E3DAQE_G0YbUVnvXg/image-scale_191_1128/image-scale_191_1128/0/1681810105531/cipd_cover?e=2147483647&v=beta&t=qS_oqZuehcTpL2DzhieiCrAVeJjWR_0T1CN4PBFieV4"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SocialMediaPosting",
+            "@id": "https://www.linkedin.com/posts/cipd_cipd-hr-people-activity-7368318536743538688-R0tM",
+            "datePublished": "2025-09-01T16:27:15.868Z",
+            "headline": "During September and October, our Focus on campaign explores the key themes of employee health and wellbeing.",
+            "comment": [
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-09-02T07:17:43.562Z",
+                    "text": "Absolutely crucial insights here. In our immersion programs, we consistently see that sustainable wellbeing strategies require more than policies - they need cultural transformation. The most effective organizations we work with recognize that employee wellbeing and AI readiness are deeply interconnected. When people feel genuinely supported and psychologically safe, they're far more open to embracing change and new technologies. It's about creating environments where human potential can flourish alongside technological advancement. 🌱\n",
+                    "author": {
+                        "@type": "Person",
+                        "name": "uptakeAI"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 1
+                    }
+                },
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-11-05T13:25:14.515Z",
+                    "text": "Valuable insight. Wellbeing support which is reactive is no longer enough — the future lies in proactive design: brain‑health habits, metabolic resilience, and recovery built into work patterns. HR who leads on this wins on culture and performance.",
+                    "author": {
+                        "@type": "Person",
+                        "name": "ISABEL HOOD"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                }
+            ],
+            "commentCount": 4,
+            "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4E10AQHaAPMrgbWOSA/image-shrink_800/B4EZkGGqsTGYAc-/0/1756744035588?e=2147483647&v=beta&t=eflE6A-8VBwlwitgr0gdioYGd1r0JSPToyPPKqqZJCo",
+                "@type": "ImageObject"
+            },
+            "articleBody": "During September and October, our Focus on campaign explores the key themes of employee health and wellbeing.\n\nEmployee wellbeing remains a key focus for people professionals, balancing growing workplace demands while supporting their organisations through change 🌍\n\nOrganisations should recognise that people professionals are essential to driving effective and sustainable wellbeing strategies that support both individuals and business performance 📊\n\nOngoing support is vital - not only to help employees maintain their health and wellbeing, but also to ensure they feel genuinely valued and supported at every stage of their working lives 🪴\n\nFind out more here: https://ow.ly/ppK650WP9P7\n\n#CIPD #HR #People #Business #Health #Wellbeing",
+            "sharedContent": {
+                "@type": "WebPage"
+            },
+            "author": {
+                "name": "CIPD",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQF3EgcHTRqpjA/company-logo_100_100/company-logo_100_100/0/1681805816355/cipd_logo?e=2147483647&v=beta&t=loGBlysh1Kb-CcywGWMt4DARatRPSUgTOfXNDTW1UBE",
+                    "@type": "ImageObject"
+                },
+                "url": "https://uk.linkedin.com/company/cipd",
+                "@type": "Organization",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 0
+                }
+            },
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 75
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 4
+                }
+            ],
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": false,
+                "cssSelector": ".details"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_cipd_cipd-hr-people-activity-7368318536743538688-R0tM.html"
+}

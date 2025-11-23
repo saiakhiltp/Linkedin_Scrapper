@@ -1,0 +1,452 @@
+[
+    {
+        "url": "https://www.linkedin.com/posts/jeffreyvanmaurik_credible-ai-storytelling-activity-7310197530506526721-_ZdF",
+        "title": "Much of the AI content we have seen so far is meaningless, but this video from the Johan Cruyff Foundation really surprised me 🎥💫",
+        "description": "Much of the AI content we have seen so far is meaningless, but this video from the Johan Cruyff Foundation really surprised me 🎥💫 \n\nTurning iconic photos, mixing important moments and putting them in chronological order to tell a life story is a simple and fantastic way of paying tribute. And it finally really shows one of the credible possibilities of generative AI.\n\n#credible #ai #storytelling",
+        "content": "Much of the AI content we have seen so far is meaningless, but this video from the Johan Cruyff Foundation really surprised me 🎥💫",
+        "likes": 2228,
+        "comments": 111,
+        "author": "Jeffrey van Maurik",
+        "date_published": "2025-03-25T07:15:08.137000+00:00",
+        "images": [
+            "https://media.licdn.com/dms/image/v2/D4E05AQHuRkpkfGa3IA/videocover-high/B4EZXKE5rYHgBs-/0/1742852053572?e=2147483647&v=beta&t=LioJj4aQX8aMD-EhLgmdqo3gg0c_xe1653YdMwAQXNs",
+            "https://dms.licdn.com/playlist/vid/v2/D4E05AQHuRkpkfGa3IA/thumbnail-with-play-button-overlay-high/B4EZXKE5rYHgDM-/0/1742852053717?e=2147483647&v=beta&t=M1kNVfhWmoPaaXU2hfgGc8ydA2M5fXmUiXkOKu9zixU",
+            "https://media.licdn.com/dms/image/v2/D4E16AQHhCxlrYnMuXA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1727945197668?e=2147483647&v=beta&t=eMsEoiOZSYj8VPMbRzMeNIq6r1euL_85LwRR1iBeXLQ",
+            "https://static.licdn.com/aero-v1/sc/h/5k9cgtx8rhoyqkcxfoncu1svl"
+        ],
+        "shared_url": null,
+        "raw_jsonld": [
+            {
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "@id": "https://www.linkedin.com/posts/jeffreyvanmaurik_credible-ai-storytelling-activity-7310197530506526721-_ZdF",
+                "datePublished": "2025-03-25T07:15:08.137Z",
+                "headline": "Much of the AI content we have seen so far is meaningless, but this video from the Johan Cruyff Foundation really surprised me 🎥💫",
+                "comment": [
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T16:31:12.894Z",
+                        "text": "This is a great use of this storytelling framework (I see it a lot on Instagram for a lot less interesting individuals) - within 90 seconds you get a full sense of Johan's career leading to the Foundation's creation. Was this shared by the Foundation here on Linkedin or TikTok/Instgram, or someone created it independently. Great either way.",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Randall Matheson"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T16:00:33.925Z",
+                        "text": "Jeffrey van Maurik any insights on which platforms/tools they used?",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Jason Balser"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 0
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T16:26:09.113Z",
+                        "text": "Obviously artificial. And it has a creepy aspect.  \n\nCurious: how much time, effort, money was spent creating this?  ",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Jerry Fraeyman"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T22:06:59.283Z",
+                        "text": "Amazing person, on and off the pitch. Few have had more influence on modern football than #Cruijff. I typically don’t idiolize people, for him I make gladly an exception ⚽️🇳🇱🇪🇸",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Guido Bartels"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 6
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T17:06:52.439Z",
+                        "text": "Brilliantly done... almost as impressive as his genius on the pitch! ",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Martin Gladdish"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-26T10:40:34.544Z",
+                        "text": "It's also a nice example where they own the rights to the used imagery. Plus it's easy to track down as well. That's good integrity for reliable sharable content.",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Jorien Walsmit"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 3
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-25T10:21:36.333Z",
+                        "text": "Ai, vergeten te vermelden dat Cruyff ook met Feyenoord kampioen is geworden! :)",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Harco Gijsbers"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-25T18:51:53.963Z",
+                        "text": "Engin D.",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Florian Saft"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 1
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T15:38:18.239Z",
+                        "text": "what a career!!",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Jason Nottage"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 1
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-03-27T16:57:36.382Z",
+                        "text": "I was lucky enough to work with him and play golf with him at Mosa Trajectum golf resort in Murcia which he was involved in to create an olympic standard warm weather training academy for a raft of sports. Unfortunately 2008 financial crash got in the way but what a legend ",
+                        "creator": {
+                            "@type": "Person",
+                            "name": "Gary Weston"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 1
+                        }
+                    }
+                ],
+                "commentCount": 111,
+                "contentUrl": "https://dms.licdn.com/playlist/vid/v2/D4E05AQHuRkpkfGa3IA/mp4-720p-30fp-crf28/B4EZXKE5rYHgBg-/0/1742852067894?e=2147483647&v=beta&t=wmoBvNwdlifo7kP7GrX5Lg6LDTrxgUJbL47FI34u2pM",
+                "creator": {
+                    "name": "Jeffrey van Maurik",
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4E03AQGmS8VdzONtzw/profile-displayphoto-shrink_200_200/B4EZQYGCf2HAAg-/0/1735571024300?e=2147483647&v=beta&t=ONFiv9U2sRI8hjiIb64uI5d7NqWbBaAyBril7qIbl-c",
+                        "@type": "ImageObject"
+                    },
+                    "url": "https://nl.linkedin.com/in/jeffreyvanmaurik",
+                    "@type": "Person",
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/FollowAction",
+                        "userInteractionCount": 1301
+                    }
+                },
+                "duration": "PT1M32S",
+                "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7310197530506526721?compact=true",
+                "height": 1280,
+                "interactionStatistic": [
+                    {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 2228
+                    },
+                    {
+                        "@type": "InteractionCounter",
+                        "interactionType": "https://schema.org/CommentAction",
+                        "userInteractionCount": 111
+                    }
+                ],
+                "isFamilyFriendly": true,
+                "keywords": "credible, ai, storytelling",
+                "width": 720,
+                "name": "#credible #ai #storytelling | Jeffrey van Maurik | 111 comments",
+                "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D4E05AQHuRkpkfGa3IA/videocover-high/B4EZXKE5rYHgBs-/0/1742852053572?e=2147483647&v=beta&t=LioJj4aQX8aMD-EhLgmdqo3gg0c_xe1653YdMwAQXNs",
+                "uploadDate": "2025-03-25T07:15:08.137Z",
+                "description": "Much of the AI content we have seen so far is meaningless, but this video from the Johan Cruyff Foundation really surprised me 🎥💫 \n\nTurning iconic photos, mixing important moments and putting them in chronological order to tell a life story is a simple and fantastic way of paying tribute. And it finally really shows one of the credible possibilities of generative AI.\n\n#credible #ai #storytelling",
+                "potentialAction": {
+                    "@type": "SeekToAction",
+                    "target": "https://www.linkedin.com/posts/jeffreyvanmaurik_credible-ai-storytelling-activity-7310197530506526721-_ZdF?t={seek_to_second_number}",
+                    "startOffset-input": "required name=seek_to_second_number"
+                }
+            }
+        ],
+        "source_file": null,
+        "fetched_url": "https://www.linkedin.com/posts/jeffreyvanmaurik_credible-ai-storytelling-activity-7310197530506526721-_ZdF",
+        "reposts": 0
+    },
+    {
+        "url": "https://www.linkedin.com/posts/lucianacemerka_ai-in-marketing-amplifying-the-human-touch-activity-7334263680412319745-y26I",
+        "title": "✨ Just published on Forbes!",
+        "description": "✨ Just published on Forbes!\nI’ve always believed that marketing is most powerful when it connects people to purpose. With AI, we now have the ability to scale that connection, without losing the human touch.\nIn this article, I explore how AI can help us bring more relevance and speed to the way we engage — making room for more meaningful work.\nIf you’re exploring how to integrate AI into your marketing strategy, or simply thinking about what’s next, I hope this piece sparks fresh ideas.\nRead the article:\nhttps://lnkd.in/dpx79cnM\n#MarketingWithPurpose #Forbes #FutureOfMarketing\n",
+        "content": "✨ Just published on Forbes!\nI’ve always believed that marketing is most powerful when it connects people to purpose. With AI, we now have the ability to scale that connection, without losing the human touch.\nIn this article, I explore how AI can help us bring more relevance and speed to the way we engage — making room for more meaningful work.\nIf you’re exploring how to integrate AI into your marketing strategy, or simply thinking about what’s next, I hope this piece sparks fresh ideas.\nRead the article:\nhttps://lnkd.in/dpx79cnM\n#MarketingWithPurpose #Forbes #FutureOfMarketing",
+        "likes": 101,
+        "comments": 6,
+        "author": "Luciana Cemerka de Aguiar",
+        "date_published": "2025-05-30T17:05:25.409000+00:00",
+        "images": [
+            "https://media.licdn.com/dms/image/sync/v2/D4E27AQENDIi7J48n2Q/articleshare-shrink_1280_800/B4EZcbxYy0HAAQ-/0/1748517621261?e=2147483647&v=beta&t=R_gKXlfX94o7_bvECu1iuRx1JgbTVAQNKFgbCvHmy8c",
+            "https://media.licdn.com/dms/image/v2/D4D16AQH4VLO9BxUhlA/profile-displaybackgroundimage-shrink_350_1400/B4DZa6r.VuG0AY-/0/1746888812331?e=2147483647&v=beta&t=GxuD1tdEepCakYFBRKpQWMJ1iaJ-hAD9pwa8aiewfcI"
+        ],
+        "shared_url": "https://social-www.forbes.com/councils/forbescommunicationscouncil/2025/05/29/ai-in-marketing-amplifying-the-human-touch/?",
+        "raw_jsonld": [
+            {
+                "@context": "http://schema.org",
+                "@type": "SocialMediaPosting",
+                "@id": "https://www.linkedin.com/posts/lucianacemerka_ai-in-marketing-amplifying-the-human-touch-activity-7334263680412319745-y26I",
+                "datePublished": "2025-05-30T17:05:25.409Z",
+                "headline": "✨ Just published on Forbes!",
+                "comment": [
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-05-30T23:56:45.667Z",
+                        "text": "Interesting article, Lu! And yes…. we walk the talk! I’ve seen the AI adoption journey unfold firsthand in the global marketing team, and it’s been a fun ride. From exchanging tips on tools and features to cool prompts and co-creating with AI as our brainstorm buddy, it’s reshaped how I think, create, and deliver.\n\nAnd no, this comment was NOT written by AI. \n But yes, ChatGPT gave it a quick review and proofread. 😉\nProud to be on this journey with you, boss Luciana Cemerka de Aguiar ✨ ",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Rebeca Boletti"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 9
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-05-30T21:29:04.667Z",
+                        "text": "Incredible insights, Luciana! A powerful reflection on the future of marketing, and one that truly embodies our vision. Proud to see this perspective featured in Forbes.",
+                        "author": {
+                            "@type": "Person",
+                            "name": "TP"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 3
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-05-30T19:12:55.316Z",
+                        "text": "Definitely worth reading. Congratulations on sharing this with us and giving your impactful work with IA. Best wishes",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Tarsila Novaes"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 1
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-06-01T00:04:29.127Z",
+                        "text": "Fantastic read, Lu! 🙌\nIt’s always valuable to reflect on how we can keep up with the rapidly expanding role of AI, while still honoring the uniquely human nuances of critical and creative thinking. Also, great tips! I’ve been using Google’s NotebookLM and it’s quickly become one of my favorite tools for surfacing context-specific insights. It definitely deserves more credit!\n\nI’m excited about what lies ahead and what we can create together! ✨",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Vitor Duarte"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-05-31T04:27:46.542Z",
+                        "text": "Definitely worth reading Luciana Cemerka de Aguiar",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Bharat Koul"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 1
+                        }
+                    },
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-05-31T00:36:42.084Z",
+                        "text": "Wow, Luciana, such a refreshing read! Loved how you frame AI as a way to scale meaning without losing the human spark 🤩. It’s rare to find that mix of purpose, tech and heart so well-articulated. Your piece left me inspired. Thank you for sharing such a timely perspective!",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Laura Repanas Compagno"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    }
+                ],
+                "commentCount": 6,
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQENDIi7J48n2Q/articleshare-shrink_1280_800/B4EZcbxYy0HAAQ-/0/1748517621261?e=2147483647&v=beta&t=R_gKXlfX94o7_bvECu1iuRx1JgbTVAQNKFgbCvHmy8c",
+                    "@type": "ImageObject"
+                },
+                "articleBody": "✨ Just published on Forbes!\nI’ve always believed that marketing is most powerful when it connects people to purpose. With AI, we now have the ability to scale that connection, without losing the human touch.\nIn this article, I explore how AI can help us bring more relevance and speed to the way we engage — making room for more meaningful work.\nIf you’re exploring how to integrate AI into your marketing strategy, or simply thinking about what’s next, I hope this piece sparks fresh ideas.\nRead the article:\nhttps://lnkd.in/dpx79cnM\n#MarketingWithPurpose #Forbes #FutureOfMarketing",
+                "sharedContent": {
+                    "@type": "WebPage",
+                    "headline": "AI In Marketing: Amplifying The Human Touch",
+                    "url": "https://social-www.forbes.com/councils/forbescommunicationscouncil/2025/05/29/ai-in-marketing-amplifying-the-human-touch/?"
+                },
+                "author": {
+                    "name": "Luciana Cemerka de Aguiar",
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/D4D03AQE0esuyM7M1iQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709824804765?e=2147483647&v=beta&t=CBBxZ-ODnW288tjd1PXcqccWfCg19s9RTQGic0CX6nA",
+                        "@type": "ImageObject"
+                    },
+                    "url": "https://br.linkedin.com/in/lucianacemerka",
+                    "@type": "Person",
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/FollowAction",
+                        "userInteractionCount": 3879
+                    }
+                },
+                "interactionStatistic": [
+                    {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 101
+                    },
+                    {
+                        "@type": "InteractionCounter",
+                        "interactionType": "https://schema.org/CommentAction",
+                        "userInteractionCount": 6
+                    }
+                ],
+                "hasPart": {
+                    "@type": "WebPageElement",
+                    "isAccessibleForFree": false,
+                    "cssSelector": ".details"
+                }
+            }
+        ],
+        "source_file": null,
+        "fetched_url": "https://www.linkedin.com/posts/lucianacemerka_ai-in-marketing-amplifying-the-human-touch-activity-7334263680412319745-y26I",
+        "reposts": 0
+    },
+    {
+        "url": "https://www.linkedin.com/posts/mediamint_breaking-silos-the-power-of-ai-transformation-activity-7386505452060098560-4e6x",
+        "title": "Are you wondering how Agentic AI moves from hype to measurable business outcomes in enterprise space?",
+        "description": "Are you wondering how Agentic AI moves from hype to measurable business outcomes in enterprise space?\n\nMost AI deployments are fragmented, and sometimes just seen as a tool without accountability for outcomes. The question isn’t if AI matters anymore; it’s how you deploy it cohesively across complex media flows breaking silos across functions. \n\nIn the current episode of Full Tech Ahead, Amanda Razani talks with our CEO, Rajeev Butani, about leveraging Agentic AI for growth operations. \n\nMediaMint's persona-based Agentic AI model delivers up to 70% efficiency gains in campaign optimization, media planning, and operations, proving that AI, when applied strategically, creates measurable impact.\n\nWatch for insights on strategic adoption, operational ownership, and aligning technology with outcomes that actually matter: https://bit.ly/4ovXaRR\n\n#MediaMint #AgenticAI #AdTech #EfficiencyatScale",
+        "content": "Are you wondering how Agentic AI moves from hype to measurable business outcomes in enterprise space?\n\nMost AI deployments are fragmented, and sometimes just seen as a tool without accountability for outcomes. The question isn’t if AI matters anymore; it’s how you deploy it cohesively across complex media flows breaking silos across functions. \n\nIn the current episode of Full Tech Ahead, Amanda Razani talks with our CEO, Rajeev Butani, about leveraging Agentic AI for growth operations. \n\nMediaMint's persona-based Agentic AI model delivers up to 70% efficiency gains in campaign optimization, media planning, and operations, proving that AI, when applied strategically, creates measurable impact.\n\nWatch for insights on strategic adoption, operational ownership, and aligning technology with outcomes that actually matter: https://bit.ly/4ovXaRR\n\n#MediaMint #AgenticAI #AdTech #EfficiencyatScale",
+        "likes": 0,
+        "comments": 0,
+        "author": "MediaMint",
+        "date_published": "2025-10-21T20:55:34.374000+00:00",
+        "images": [
+            "https://media.licdn.com/dms/image/v2/D5610AQFbyAQHGNRI-w/image-shrink_800/B56ZoIjkcxJoAg-/0/1761080134078?e=2147483647&v=beta&t=a3ze-3Xw8MzLzGqgjJMzSDPXzPVB6Dowry0CWLdujLM",
+            "https://media.licdn.com/dms/image/v2/D563DAQEVhFckk85RHw/image-scale_191_1128/image-scale_191_1128/0/1730719363961/mediamint_cover?e=2147483647&v=beta&t=Uw_jOzT219rpis5sDvDRzK7HhIefNDAwCeBenTHC4pw"
+        ],
+        "shared_url": "https://www.youtube.com/watch?v=rO0YATw8oGo",
+        "raw_jsonld": [
+            {
+                "@context": "http://schema.org",
+                "@type": "SocialMediaPosting",
+                "@id": "https://www.linkedin.com/posts/mediamint_breaking-silos-the-power-of-ai-transformation-activity-7386505452060098560-4e6x",
+                "datePublished": "2025-10-21T20:55:34.374Z",
+                "headline": "Are you wondering how Agentic AI moves from hype to measurable business outcomes in enterprise space?",
+                "comment": [
+                    {
+                        "@type": "Comment",
+                        "datePublished": "2025-10-22T03:11:05.814Z",
+                        "text": "Thanks to Rajeev for coming on the show and sharing his insights!",
+                        "author": {
+                            "@type": "Person",
+                            "name": "Amanda Razani"
+                        },
+                        "interactionStatistic": {
+                            "@type": "InteractionCounter",
+                            "interactionType": "http://schema.org/LikeAction",
+                            "userInteractionCount": 2
+                        }
+                    }
+                ],
+                "commentCount": 1,
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D5610AQFbyAQHGNRI-w/image-shrink_800/B56ZoIjkcxJoAg-/0/1761080134078?e=2147483647&v=beta&t=a3ze-3Xw8MzLzGqgjJMzSDPXzPVB6Dowry0CWLdujLM",
+                    "@type": "ImageObject"
+                },
+                "articleBody": "Are you wondering how Agentic AI moves from hype to measurable business outcomes in enterprise space?\n\nMost AI deployments are fragmented, and sometimes just seen as a tool without accountability for outcomes. The question isn’t if AI matters anymore; it’s how you deploy it cohesively across complex media flows breaking silos across functions. \n\nIn the current episode of Full Tech Ahead, Amanda Razani talks with our CEO, Rajeev Butani, about leveraging Agentic AI for growth operations. \n\nMediaMint's persona-based Agentic AI model delivers up to 70% efficiency gains in campaign optimization, media planning, and operations, proving that AI, when applied strategically, creates measurable impact.\n\nWatch for insights on strategic adoption, operational ownership, and aligning technology with outcomes that actually matter: https://bit.ly/4ovXaRR\n\n#MediaMint #AgenticAI #AdTech #EfficiencyatScale",
+                "sharedContent": {
+                    "@type": "WebPage",
+                    "headline": "Breaking Silos: The Power of AI Transformation",
+                    "url": "https://www.youtube.com/watch?v=rO0YATw8oGo"
+                },
+                "author": {
+                    "name": "MediaMint",
+                    "image": {
+                        "url": "https://media.licdn.com/dms/image/v2/C560BAQGnV45s0vtRng/company-logo_100_100/company-logo_100_100/0/1631415600686?e=2147483647&v=beta&t=9Cl3L3wzN01dfGOEU5Ogo_iAC559l0VMK3HBJsWL_i8",
+                        "@type": "ImageObject"
+                    },
+                    "url": "https://www.linkedin.com/company/mediamint",
+                    "@type": "Organization",
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/FollowAction",
+                        "userInteractionCount": 0
+                    }
+                },
+                "video": {
+                    "@type": "VideoObject",
+                    "name": "Breaking Silos: The Power of AI Transformation",
+                    "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5610AQFbyAQHGNRI-w/image-shrink_800/B56ZoIjkcxJoAg-/0/1761080134078?e=2147483647&v=beta&t=a3ze-3Xw8MzLzGqgjJMzSDPXzPVB6Dowry0CWLdujLM",
+                    "uploadDate": "2025-10-21T20:55:34.374Z",
+                    "description": "Are you wondering how Agentic AI moves from hype to measurable business outcomes in enterprise space?\n\nMost AI deployments are fragmented, and sometimes just seen as a tool without accountability for outcomes. The question isn’t if AI matters anymore; it’s how you deploy it cohesively across complex media flows breaking silos across functions. \n\nIn the current episode of Full Tech Ahead, Amanda Razani talks with our CEO, Rajeev Butani, about leveraging Agentic AI for growth operations. \n\nMediaMint's persona-based Agentic AI model delivers up to 70% efficiency gains in campaign optimization, media planning, and operations, proving that AI, when applied strategically, creates measurable impact.\n\nWatch for insights on strategic adoption, operational ownership, and aligning technology with outcomes that actually matter: https://bit.ly/4ovXaRR\n\n#MediaMint #AgenticAI #AdTech #EfficiencyatScale",
+                    "embedUrl": "https://www.youtube.com/watch?v=rO0YATw8oGo"
+                },
+                "hasPart": {
+                    "@type": "WebPageElement",
+                    "isAccessibleForFree": false,
+                    "cssSelector": ".details"
+                }
+            }
+        ],
+        "source_file": null,
+        "fetched_url": "https://www.linkedin.com/posts/mediamint_breaking-silos-the-power-of-ai-transformation-activity-7386505452060098560-4e6x",
+        "reposts": 0
+    }
+]

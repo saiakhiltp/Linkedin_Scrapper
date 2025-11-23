@@ -1,0 +1,70 @@
+{
+    "url": "https://www.linkedin.com/posts/the-business-behind-your-business_wellbeing-sme-smallbusiness-activity-7373838154283302912-CH5U",
+    "title": "Do you need some practical tips on how you can look after your employees' wellbeing?",
+    "description": "Do you need some practical tips on how you can look after your employees' wellbeing? https://lnkd.in/gVUmzRHa #Wellbeing #SME #SmallBusiness #MentalHealth #Wellness #Employees",
+    "content": "Do you need some practical tips on how you can look after your employees' wellbeing?",
+    "likes": null,
+    "comments": null,
+    "author": "The Business Behind Your Business",
+    "date_published": "2025-09-16T22:00:15.234000+00:00",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D5610AQG63mMAhSClyw/videocover-high/B56ZlUioK6I8BU-/0/1758059989676?e=2147483647&v=beta&t=nYP4hE5x7AgxLJXWh54TUldDqpcsY2edhyynQHBN3Ko",
+        "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "https://media.licdn.com/dms/image/v2/D563DAQEB2apuBBsteQ/image-scale_191_1128/image-scale_191_1128/0/1718669599196/the_business_behind_your_business_cover?e=2147483647&v=beta&t=it18XidgbLeYkf9dZ6l8D-QQRy6-kUMXHQEIJn7yKfg"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "VideoObject",
+            "@id": "https://www.linkedin.com/posts/the-business-behind-your-business_wellbeing-sme-smallbusiness-activity-7373838154283302912-CH5U",
+            "datePublished": "2025-09-16T22:00:15.234Z",
+            "headline": "Do you need some practical tips on how you can look after your employees' wellbeing?",
+            "comment": [],
+            "commentCount": 0,
+            "contentUrl": "https://dms.licdn.com/playlist/vid/v2/D5610AQG63mMAhSClyw/mp4-640p-30fp-crf28/B56ZlUioK6I8Aw-/0/1758059991245?e=2147483647&v=beta&t=1wCMHjBYkE3Gxo__SLo-QmTr2zdWQ7BODLi8tcA7O64",
+            "creator": {
+                "name": "The Business Behind Your Business",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/C560BAQELlb7KbLgLdg/company-logo_100_100/company-logo_100_100/0/1630639852914?e=2147483647&v=beta&t=BuIPdrwQmlqoiV-z0z2ge3Xd2xrbmrs-ktFyHYuSijs",
+                    "@type": "ImageObject"
+                },
+                "url": "https://au.linkedin.com/company/the-business-behind-your-business",
+                "@type": "Organization",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 0
+                }
+            },
+            "duration": "PT26S",
+            "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7373838154283302912?compact=true",
+            "height": 720,
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 0
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 0
+                }
+            ],
+            "isFamilyFriendly": true,
+            "keywords": "wellbeing, sme, smallbusiness, mentalhealth, wellness, employees",
+            "width": 720,
+            "name": "Practical tips for employee wellbeing | The Business Behind Your Business posted on the topic | LinkedIn",
+            "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5610AQG63mMAhSClyw/videocover-high/B56ZlUioK6I8BU-/0/1758059989676?e=2147483647&v=beta&t=nYP4hE5x7AgxLJXWh54TUldDqpcsY2edhyynQHBN3Ko",
+            "uploadDate": "2025-09-16T22:00:15.234Z",
+            "description": "Do you need some practical tips on how you can look after your employees' wellbeing? https://lnkd.in/gVUmzRHa #Wellbeing #SME #SmallBusiness #MentalHealth #Wellness #Employees",
+            "potentialAction": {
+                "@type": "SeekToAction",
+                "target": "https://www.linkedin.com/posts/the-business-behind-your-business_wellbeing-sme-smallbusiness-activity-7373838154283302912-CH5U?t={seek_to_second_number}",
+                "startOffset-input": "required name=seek_to_second_number"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_the-business-behind-your-business_wellbeing-sme-smallbusiness-activity-7373838154283302912-CH5U.html"
+}

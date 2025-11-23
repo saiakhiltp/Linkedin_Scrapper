@@ -1,0 +1,81 @@
+{
+    "url": "https://www.linkedin.com/posts/pellera-technologies_ai-modernit-techleadership-activity-7363996999450275842-1b01",
+    "title": "Most tech stacks weren’t built for AI - and IT leaders are feeling the pressure.",
+    "description": "Most tech stacks weren’t built for AI - and IT leaders are feeling the pressure.\n\nOn this episode of Edge of IT, host Jonathan Gough chats with Stuart Miniman of Red Hat and Andrew Tenaglia of Pellera about what true modernization really takes.\n\nThey get candid about:\n- Tackling tech debt that slows innovation\n- Moving beyond “lift and shift” thinking\n- Building cloud-native foundations that AI can actually thrive on\n\nIf you’re in the middle of a transformation push, this conversation is for you.\n\n🎧 Listen here: https://bit.ly/4lAo35e...\n\n#AI #ModernIT #TechLeadership #RedHat #EdgeOfIT #Pellera",
+    "content": "Most tech stacks weren’t built for AI - and IT leaders are feeling the pressure.\n\nOn this episode of Edge of IT, host Jonathan Gough chats with Stuart Miniman of Red Hat and Andrew Tenaglia of Pellera about what true modernization really takes.\n\nThey get candid about:\n- Tackling tech debt that slows innovation\n- Moving beyond “lift and shift” thinking\n- Building cloud-native foundations that AI can actually thrive on\n\nIf you’re in the middle of a transformation push, this conversation is for you.\n\n🎧 Listen here: https://bit.ly/4lAo35e...\n\n#AI #ModernIT #TechLeadership #RedHat #EdgeOfIT #Pellera",
+    "likes": 78,
+    "comments": 1,
+    "author": "Pellera Technologies",
+    "date_published": "2025-08-20T18:15:01.080000+00:00",
+    "images": [
+        "https://media.licdn.com/dms/image/v2/D4D10AQEgdANSCcmndg/image_627_1200/B4DZjIw9i6GsAg-/0/1755714935116?e=2147483647&v=beta&t=09KWcLFrTVbN3fI6bTaXPv9hhf8iVhCRsSWpBl4UlRw",
+        "https://media.licdn.com/dms/image/v2/D563DAQFWKEHIdGTR7g/image-scale_191_1128/B56ZgeSjFSG0Ao-/0/1752854836163/pellera_technologies_cover?e=2147483647&v=beta&t=Ht3AXPNcDLWd-fBEtzvXlh9wxBQfHd2nUIwHNqyRlP4"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SocialMediaPosting",
+            "@id": "https://www.linkedin.com/posts/pellera-technologies_ai-modernit-techleadership-activity-7363996999450275842-1b01",
+            "datePublished": "2025-08-20T18:15:01.080Z",
+            "headline": "Most tech stacks weren’t built for AI - and IT leaders are feeling the pressure.",
+            "comment": [
+                {
+                    "@type": "Comment",
+                    "datePublished": "2025-08-21T00:30:50.959Z",
+                    "text": "Stuart + Andrew? Great combination! Completely agree, helping clients build on cloud-native is the way.",
+                    "author": {
+                        "@type": "Person",
+                        "name": "Jerome Martin"
+                    },
+                    "interactionStatistic": {
+                        "@type": "InteractionCounter",
+                        "interactionType": "http://schema.org/LikeAction",
+                        "userInteractionCount": 0
+                    }
+                }
+            ],
+            "commentCount": 1,
+            "image": {
+                "url": "https://media.licdn.com/dms/image/v2/D4D10AQEgdANSCcmndg/image_627_1200/B4DZjIw9i6GsAg-/0/1755714935116?e=2147483647&v=beta&t=09KWcLFrTVbN3fI6bTaXPv9hhf8iVhCRsSWpBl4UlRw",
+                "@type": "ImageObject"
+            },
+            "articleBody": "Most tech stacks weren’t built for AI - and IT leaders are feeling the pressure.\n\nOn this episode of Edge of IT, host Jonathan Gough chats with Stuart Miniman of Red Hat and Andrew Tenaglia of Pellera about what true modernization really takes.\n\nThey get candid about:\n- Tackling tech debt that slows innovation\n- Moving beyond “lift and shift” thinking\n- Building cloud-native foundations that AI can actually thrive on\n\nIf you’re in the middle of a transformation push, this conversation is for you.\n\n🎧 Listen here: https://bit.ly/4lAo35e...\n\n#AI #ModernIT #TechLeadership #RedHat #EdgeOfIT #Pellera",
+            "sharedContent": {
+                "@type": "WebPage"
+            },
+            "author": {
+                "name": "Pellera Technologies",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D560BAQHH7k-1Va8Kug/company-logo_100_100/B56ZgeS7pwHMAY-/0/1752854936581/pellera_technologies_logo?e=2147483647&v=beta&t=5oEjzRnQGDssraNssra7lSrNsJv-5ngmKM_wMvuAvkg",
+                    "@type": "ImageObject"
+                },
+                "url": "https://www.linkedin.com/company/pellera-technologies",
+                "@type": "Organization",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 0
+                }
+            },
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 78
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 1
+                }
+            ],
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": false,
+                "cssSelector": ".details"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_pellera-technologies_ai-modernit-techleadership-activity-7363996999450275842-1b01.html"
+}

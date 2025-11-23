@@ -1,0 +1,69 @@
+{
+    "content": null,
+    "likes": 25,
+    "comments": null,
+    "author": null,
+    "date_published": "2024-05-31T04:30:22.266000+00:00",
+    "url": "https://www.linkedin.com/posts/teleperformance_tpmothersdayspecials-tpindia-celebratingmoms-activity-7202164482180091907-1XD2",
+    "title": "#tpmothersdayspecials #tpindia #celebratingmoms #mothersday #momspower | TP",
+    "description": "This Mother's Day, TP salutes the love and sacrifices of all our phenomenal moms!\n\nHear this heartwarming message from our TP team to their mom. Share it with your friends and colleagues and join us in this special celebration!\n\n#TPMothersDaySpecials #TPIndia #CelebratingMoms #MothersDay #MomsPower",
+    "images": [
+        "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "https://media.licdn.com/dms/image/v2/D4D3DAQFrAa2-RPIitw/image-scale_191_1128/B4DZpVR9JWGwAg-/0/1762367362480/teleperformance_cover?e=2147483647&v=beta&t=UDNK2-xlZ53urzpFlvEvrL5_jyRCXrLDTI6ZWBQJYAU"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "VideoObject",
+            "@id": "https://www.linkedin.com/posts/teleperformance_tpmothersdayspecials-tpindia-celebratingmoms-activity-7202164482180091907-1XD2",
+            "datePublished": "2024-05-31T04:30:22.266Z",
+            "headline": "This Mother's Day, TP salutes the love and sacrifices of all our phenomenal moms!",
+            "comment": [],
+            "commentCount": 0,
+            "contentUrl": "https://dms.licdn.com/playlist/vid/v2/D5610AQFCrJRShSTy2A/mp4-640p-30fp-crf28/mp4-640p-30fp-crf28/0/1717129812381?e=2147483647&v=beta&t=GrCp0v-9B__nzrlecqq9VBqpmAoZGwh8vQJEYsiGlxY",
+            "creator": {
+                "name": "TP",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D4E0BAQFUXTTznmtEFQ/company-logo_100_100/B4EZVtS9nIHcAU-/0/1741295443686/teleperformance_logo?e=2147483647&v=beta&t=JdwtGy50DVCqINdFUg5r_s6JEbws54y7U4Tt_rZvjxw",
+                    "@type": "ImageObject"
+                },
+                "url": "https://fr.linkedin.com/company/teleperformance",
+                "@type": "Organization",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 0
+                }
+            },
+            "duration": "PT27S",
+            "embedUrl": "https://www.linkedin.com/embed/feed/update/urn:li:activity:7202164482180091907?compact=true",
+            "height": 680,
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 25
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 0
+                }
+            ],
+            "isFamilyFriendly": true,
+            "keywords": "tpmothersdayspecials, tpindia, celebratingmoms, mothersday, momspower",
+            "width": 1200,
+            "name": "#tpmothersdayspecials #tpindia #celebratingmoms #mothersday #momspower | TP",
+            "thumbnailUrl": "https://media.licdn.com/dms/image/v2/D5610AQFCrJRShSTy2A/videocover-high/videocover-high/0/1717129808631?e=2147483647&v=beta&t=4x6PRbt4lduHs94GzWKUKQ5yOqCKZ79NEjtAYixw634",
+            "uploadDate": "2024-05-31T04:30:22.266Z",
+            "description": "This Mother's Day, TP salutes the love and sacrifices of all our phenomenal moms!\n\nHear this heartwarming message from our TP team to their mom. Share it with your friends and colleagues and join us in this special celebration!\n\n#TPMothersDaySpecials #TPIndia #CelebratingMoms #MothersDay #MomsPower",
+            "potentialAction": {
+                "@type": "SeekToAction",
+                "target": "https://www.linkedin.com/posts/teleperformance_tpmothersdayspecials-tpindia-celebratingmoms-activity-7202164482180091907-1XD2?t={seek_to_second_number}",
+                "startOffset-input": "required name=seek_to_second_number"
+            }
+        }
+    ],
+    "notes": []
+}

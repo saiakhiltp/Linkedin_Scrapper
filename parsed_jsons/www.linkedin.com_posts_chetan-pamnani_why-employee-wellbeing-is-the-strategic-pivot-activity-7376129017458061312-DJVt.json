@@ -1,0 +1,60 @@
+{
+    "url": "https://www.linkedin.com/posts/chetan-pamnani_why-employee-wellbeing-is-the-strategic-pivot-activity-7376129017458061312-DJVt",
+    "title": "Why Employee Wellbeing is the Strategic Pivot for What’s Next",
+    "description": "Why Employee Wellbeing is the Strategic Pivot for What’s Next\n\nThe future of work isn’t just about AI, digital transformation, or productivity metrics. It’s about people.\n\nOrganizations that treat employee wellbeing as a side initiative risk losing their best talent. Those that make it a strategic priority are seeing stronger engagement, innovation, and loyalty.\n\nThis is the care shift:\n🔹 From output - to outcomes that include health and happiness.\n🔹 From “support programs” - to embedded wellbeing in everyday work.\n🔹 From cost - to competitive advantage.\n\nWellbeing is no longer “nice to have.” It’s the foundation of sustainable performance and the true differentiator for what comes next.",
+    "content": "Why Employee Wellbeing is the Strategic Pivot for What’s Next\n\nThe future of work isn’t just about AI, digital transformation, or productivity metrics. It’s about people.\n\nOrganizations that treat employee wellbeing as a side initiative risk losing their best talent. Those that make it a strategic priority are seeing stronger engagement, innovation, and loyalty.\n\nThis is the care shift:\n🔹 From output - to outcomes that include health and happiness.\n🔹 From “support programs” - to embedded wellbeing in everyday work.\n🔹 From cost - to competitive advantage.\n\nWellbeing is no longer “nice to have.” It’s the foundation of sustainable performance and the true differentiator for what comes next.",
+    "likes": 4,
+    "comments": null,
+    "author": "Chetan Pamnani",
+    "date_published": "2025-09-23T05:43:19.593000+00:00",
+    "images": [
+        "https://static.licdn.com/aero-v1/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "https://static.licdn.com/aero-v1/sc/h/5q92mjc5c51bjlwaj3rs9aa82",
+        "https://static.licdn.com/aero-v1/sc/h/9l8dv1r8a09nem281grvopn9l"
+    ],
+    "shared_url": null,
+    "raw_jsonld": [
+        {
+            "@context": "http://schema.org",
+            "@type": "SocialMediaPosting",
+            "@id": "https://www.linkedin.com/posts/chetan-pamnani_why-employee-wellbeing-is-the-strategic-pivot-activity-7376129017458061312-DJVt",
+            "datePublished": "2025-09-23T05:43:19.593Z",
+            "headline": "Why Employee Wellbeing is the Strategic Pivot for What’s Next",
+            "comment": [],
+            "commentCount": 0,
+            "articleBody": "Why Employee Wellbeing is the Strategic Pivot for What’s Next\n\nThe future of work isn’t just about AI, digital transformation, or productivity metrics. It’s about people.\n\nOrganizations that treat employee wellbeing as a side initiative risk losing their best talent. Those that make it a strategic priority are seeing stronger engagement, innovation, and loyalty.\n\nThis is the care shift:\n🔹 From output - to outcomes that include health and happiness.\n🔹 From “support programs” - to embedded wellbeing in everyday work.\n🔹 From cost - to competitive advantage.\n\nWellbeing is no longer “nice to have.” It’s the foundation of sustainable performance and the true differentiator for what comes next.",
+            "author": {
+                "name": "Chetan Pamnani",
+                "image": {
+                    "url": "https://media.licdn.com/dms/image/v2/D5603AQHtrYwVXRFgXg/profile-displayphoto-shrink_200_200/B56ZZZnIinGcAc-/0/1745260154004?e=2147483647&v=beta&t=xNB3f3ygmlWM4d8JVgLc-kkTXES9FqpsTaJwMT-VTfo",
+                    "@type": "ImageObject"
+                },
+                "url": "https://in.linkedin.com/in/chetan-pamnani",
+                "@type": "Person",
+                "interactionStatistic": {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/FollowAction",
+                    "userInteractionCount": 893
+                }
+            },
+            "interactionStatistic": [
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "http://schema.org/LikeAction",
+                    "userInteractionCount": 4
+                },
+                {
+                    "@type": "InteractionCounter",
+                    "interactionType": "https://schema.org/CommentAction",
+                    "userInteractionCount": 0
+                }
+            ],
+            "hasPart": {
+                "@type": "WebPageElement",
+                "isAccessibleForFree": false,
+                "cssSelector": ".details"
+            }
+        }
+    ],
+    "source_file": "html_temp\\www.linkedin.com_posts_chetan-pamnani_why-employee-wellbeing-is-the-strategic-pivot-activity-7376129017458061312-DJVt.html"
+}
