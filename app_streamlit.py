@@ -85,7 +85,7 @@ def company_matches_parsed(parsed: Dict, company_names: List[str], company_slugs
     company_slugs = company_slugs or []
     names_norm = [normalize(x) for x in company_names if x]
     slugs_norm = [normalize(x) for x in company_slugs if x]
-
+ 
     # 1) parsed author name
     author = normalize(parsed.get("author") or parsed.get("creator") or "")
     for n in names_norm:

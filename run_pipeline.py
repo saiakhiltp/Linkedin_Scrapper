@@ -6,7 +6,7 @@ from typing import List, Set
 from urllib.parse import quote_plus
 
 import requests
-import pandas as pd
+import pandas as pd 
 
 # local module imports (make sure files are in same directory or install as package)
 from scraper import fetch_html

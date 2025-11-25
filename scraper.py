@@ -1,7 +1,7 @@
 # scrapper.py
 import os
 import requests
-from typing import Optional
+from typing import Optional 
 
 # You can keep your existing API key here, but it's safer to set environment variable SCRAPINGBEE_KEY.
 # If you already have the key hard-coded, you can leave it here. Otherwise set env var SCRAPINGBEE_KEY.

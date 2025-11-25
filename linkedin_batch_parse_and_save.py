@@ -150,7 +150,7 @@ def parse_linkedin_html(html: str, source_filename: Optional[str] = None) -> Dic
             # shared image
             si = shared.get("image") or shared.get("thumbnail")
             if isinstance(si, dict):
-                url = si.get("url")
+                url = si.get("url") 
                 if url and url not in out["images"]:
                     out["images"].append(url)
         # interactionStatistic
@@ -308,6 +308,3 @@ def main():
     except Exception as e:
         print("Error saving combined JSON:", e)
 
-
-if __name__ == "__main__":
-    main()
